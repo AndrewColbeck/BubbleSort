@@ -1,14 +1,11 @@
 # Demonstration of Bubble Sort Algorithm
 Submission piece for Foundations of Technical Programming, BScs Computer Science.
 
-
-
-
-
-
 ### Description:
 This Program demonstrates the Bubble Sort algorithm by sorting an array of single pixel bars into order of length.
 
+
+<br />&nbsp;<br />
 <p align="center">
   <img width="775" height="388" src="https://gdurl.com/S5yE">
 </p>
