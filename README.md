@@ -12,3 +12,5 @@ This Program demonstrates the Bubble Sort algorithm by sorting an array of singl
 
 ### Instructions:
 Download and install all necessary files to run SwinGame on local machine (http://www.swingame.com/), build the program using the included ./build.sh script, and then run the program using ./run.sh script.
+
+<br><br>Andrew Colbeck © 2018
